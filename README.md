@@ -2,6 +2,7 @@
 
 - 👾 Formado em Análise e Desenvolvimento de Sistemas - <a href="https://www.fiap.com.br/">FIAP</a></p>
 - 🌱 Estudando JAVA
+- 
 
 
 <hr/>
@@ -16,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,aws,spring,kafka,rabbitmq,docker,python,cs,postgresql,mongo,redis" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,javascript,azure" />
   </a>
 </p>
 
