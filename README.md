@@ -2,7 +2,6 @@
 
 - 👾 Formado em Análise e Desenvolvimento de Sistemas - <a href="https://www.fiap.com.br/">FIAP</a></p>
 - 🌱 Estudando JAVA
-- 
 
 
 <hr/>
